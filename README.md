@@ -13,7 +13,7 @@
 ## 📥 최신 버전 다운로드 및 설치
 
 1. 우측의 **[Releases]** 탭 또는 아래 링크를 클릭하여 최신 버전을 확인합니다.
-2. `Op-26M_VIP_Setup.exe` 파일을 다운로드하여 실행합니다.
+2. `Op-26M_Setup.exe` 파일을 다운로드하여 실행합니다.
 3. 바탕화면에 생성된 아이콘을 통해 퀀트 엔진을 가동합니다.
 
 👉 **[최신 릴리즈 다운로드 바로가기](https://github.com/jaeil-park/UpbitBot-Releases/releases/latest)**
