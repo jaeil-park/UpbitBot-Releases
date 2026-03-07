@@ -1,4 +1,4 @@
-# 🚀 Op-26M VIP Quant Engine (Official Releases)
+# 🚀 Op-26M Quant Engine (Official Releases)
 
 ![Version](https://img.shields.io/github/v/release/jaeil-park/UpbitBot-Releases?label=Latest%20Version&color=success)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
@@ -33,7 +33,7 @@ Op-26M 엔진은 자체적인 백그라운드 OTA(Over-The-Air) 업데이트 기
 
 라이선스 갱신, VIP 등급 업그레이드 또는 엔진 구동 중 문의 사항이 있으신 경우 아래 채널을 통해 관리자에게 문의해 주시기 바랍니다.
 
-* **상담 채널**: (이곳에 카카오톡 오픈프로필이나 텔레그램 링크 등 연락처를 적어주세요)
+* **상담 채널**: (https://open.kakao.com/o/syAcmtug)
 * **운영 시간**: 평일 09:00 ~ 18:00
 
 ---
